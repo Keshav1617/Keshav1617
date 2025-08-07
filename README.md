@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=820&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav;Full-Stack+Developer+%7C+Hackathon+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Keshav;
+    Full-Stack+Developer+%7C+Hackathon+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -40,20 +41,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,git,tailwind,vscode,figma,aws" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavjha018&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavjha018&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjha018&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
