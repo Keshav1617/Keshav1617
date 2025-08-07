@@ -12,10 +12,10 @@
 
 - 👨‍💻 Full-Stack Developer (MERN)
 - 🤖 Exploring AI, ML, and Real-World Applications
-- 🏕️ Built *Vyatra* – a nature-integrated tourism platform
-- 🧠 Created *Manoshanti* – a mental health platform
-- 📦 Working on a **mini GitHub clone** with essential functionalities like repository listing and file commits and many more**
-- 🎯 Secured **62nd rank** among 400+ students in *Smart India Hackathon (SIH) internal round*
+- 🏕️ Built *Vyatra* – a nature-integrated tourism platform  
+- 🧠 Created *Manoshanti* – a mental health platform  
+- 📦 Working on a **mini GitHub clone** with essential functionalities like repository listing and file commits  
+- 🎯 Secured **62nd rank** among 400+ students in *Smart India Hackathon (SIH) internal round*  
 - 🔍 Passionate about competitive coding and building scalable products
 
 ---
@@ -39,7 +39,7 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,c++,html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,git,tailwind,vscode,figma,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,git,tailwind,vscode,figma,aws" />
 </p>
 
 ---
@@ -51,9 +51,9 @@
 </p>
 
 <p align="center">
-  <img src="" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavjha018&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavjha018&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
